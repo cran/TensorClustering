@@ -57,7 +57,7 @@ The intermediate estimators \eqn{\mathbf{M}_{m}^{(s)}} can be viewed the mode-\e
 }
 
 \references{
-Deng, K. and Zhang, X. (2020). Tensor Envelope Mixture Model For Simultaneous Clustering and Multiway Dimension Reduction. \emph{Manuscript}.
+Deng, K. and Zhang, X. (2021). Tensor Envelope Mixture Model for Simultaneous Clustering and Multiway Dimension Reduction. \emph{Biometrics}.
 }
 
 \author{Kai Deng, Yuqing Pan, Xin Zhang and Qing Mai}

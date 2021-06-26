@@ -39,7 +39,7 @@ where \eqn{0<\pi_k<1} is the prior probability for \eqn{\mathbf{X}} to be in the
 }
 
 \references{
-Deng, K. and Zhang, X. (2020). Tensor Envelope Mixture Model For Simultaneous Clustering and Multiway Dimension Reduction. \emph{Manuscript}.
+Deng, K. and Zhang, X. (2021). Tensor Envelope Mixture Model for Simultaneous Clustering and Multiway Dimension Reduction. \emph{Biometrics}.
 
 Tait, P. A. and McNicholas, P. D. (2019). Clustering higher order data: Finite mixtures of multidimensional arrays. \emph{arXiv:1907.08566}.
 }

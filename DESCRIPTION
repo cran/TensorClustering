@@ -1,7 +1,7 @@
 Package: TensorClustering
 Type: Package
 Title: Model-Based Tensor Clustering
-Version: 1.0.1
+Version: 1.0.2
 Authors@R: 
     c(person(given = "Kai",
              family = "Deng",
@@ -19,7 +19,7 @@ Authors@R:
              family = "Mai",
              role = "aut",
              email = "mai@stat.fsu.edu"))
-Description: Performs model-based tensor clustering methods including Tensor Gaussian Mixture Model (TGMM) and Tensor Envelope Mixture Model (TEMM) by Deng and Zhang (2021, tentatively accepted by Biometrics), Doubly-Enhanced EM (DEEM) algorithm by Mai, Zhang, Pan and Deng (2021) <arXiv:2012.10032>. 
+Description: Performs model-based tensor clustering methods including Tensor Gaussian Mixture Model (TGMM), Tensor Envelope Mixture Model (TEMM) by Deng and Zhang (2021) <DOI: 10.1111/biom.13486>, Doubly-Enhanced EM (DEEM) algorithm by Mai, Zhang, Pan and Deng (2021) <DOI: 10.1080/01621459.2021.1904959>. 
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: false
@@ -28,11 +28,11 @@ Imports: MASS, tensr, rTensor, TRES, abind, combinat, pracma, stats,
 RoxygenNote: 7.1.1
 LinkingTo: Rcpp
 NeedsCompilation: yes
-Packaged: 2021-04-08 16:35:04 UTC; azuryee
+Packaged: 2021-06-26 04:52:38 UTC; azuryee
 Author: Kai Deng [aut, cre],
   Yuqing Pan [aut],
   Xin Zhang [aut],
   Qing Mai [aut]
 Maintainer: Kai Deng <kd18h@stat.fsu.edu>
 Repository: CRAN
-Date/Publication: 2021-04-09 09:10:05 UTC
+Date/Publication: 2021-06-26 05:40:02 UTC

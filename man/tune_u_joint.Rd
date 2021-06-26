@@ -35,7 +35,7 @@ In the above BIC, \eqn{K_u=(K-1)\prod_{m=1}^M u_m + \sum_{m=1}^{M}p_m(p_m+1)/2} 
 
 
 \references{
-Deng, K. and Zhang, X. (2021). Tensor Envelope Mixture Model For Simultaneous Clustering and Multiway Dimension Reduction. \emph{Manuscript}.
+Deng, K. and Zhang, X. (2021). Tensor Envelope Mixture Model for Simultaneous Clustering and Multiway Dimension Reduction. \emph{Biometrics}.
 }
 
 \author{Kai Deng, Yuqing Pan, Xin Zhang and Qing Mai}

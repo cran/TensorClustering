@@ -38,7 +38,7 @@ This separate selection over each mode \eqn{m} is less sensitive to the complex 
 
 
 \references{
-Deng, K. and Zhang, X. (2021). Tensor Envelope Mixture Model For Simultaneous Clustering and Multiway Dimension Reduction. \emph{Manuscript}.
+Deng, K. and Zhang, X. (2021). Tensor Envelope Mixture Model for Simultaneous Clustering and Multiway Dimension Reduction. \emph{Biometrics}.
 
 Zhang, X. and Mai, Q. (2018). Model-free envelope dimension selection. \emph{Electronic Journal of Statistics} 12, 2193-2216.
 }
